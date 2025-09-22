@@ -196,3 +196,5 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 ---
 
 **EduXPU – Prototype, Learn, and Accelerate!**
+
+This is just the beginning thought we have right now
